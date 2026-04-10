@@ -1,0 +1,9 @@
+{
+  "compilerOptions": {
+    "target": "esnext",
+    "module": "esnext",
+    "lib": ["esnext", "edge-light"],
+    "moduleResolution": "node",
+    "strict": true
+  }
+}
